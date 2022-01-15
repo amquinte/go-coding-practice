@@ -1,2 +1,2 @@
 # go-coding-practice
- Repository of daly coding challenges in Go
+ Repository of daily coding challenges in Go
